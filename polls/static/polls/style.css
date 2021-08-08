@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/musician-5960112_1920.jpg") no-repeat;
+    background-size: contain;
+}
